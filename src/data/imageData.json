@@ -1,37 +1,29 @@
  [
    {
-     "fileName":"../images/1.gif",
+     "fileName":"1.gif",
        "fileTitle":"first",
-       "fileDesc":"漂亮嗎",
-      "width":100,
-     "height":100
+       "fileDesc":"漂亮嗎"
    },
    {
-     "fileName":"../images/2.gif",
+     "fileName":"2.gif",
      "fileTitle":"second",
-     "fileDesc":"喜歡嗎 ",
-     "width":100,
-     "height":100
+     "fileDesc":"喜歡嗎 "
+
    },
    {
-     "fileName":"../images/3.gif",
+     "fileName":"3.gif",
      "fileTitle":"third",
-     "fileDesc":"超正點",
-     "width":100,
-     "height":100
+     "fileDesc":"超正點"
+
    },
    {
-     "fileName":"../images/4.gif",
+     "fileName":"4.gif",
      "fileTitle":"fourth",
-     "fileDesc":"超喜歡",
-     "width":100,
-     "height":100
+     "fileDesc":"超喜歡"
    },
    {
-     "fileName":"../images/5.gif",
+     "fileName":"5.gif",
      "fileTitle":"fifth",
-     "fileDesc":"想想就好",
-     "width":100,
-     "height":100
+     "fileDesc":"想想就好"
    }
  ]
